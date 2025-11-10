@@ -1,0 +1,21 @@
+# Ignore virtual environment
+myenv/
+
+# Python cache folders
+__pycache__/
+
+# Mesh and output data
+*.obj
+*.png
+*.npy
+
+# Output folders
+outputs_task3/
+outputs_task2/
+outputs_norm/
+outputs_quantized/
+
+# IDE / system files
+.vscode/
+.DS_Store
+Thumbs.db
